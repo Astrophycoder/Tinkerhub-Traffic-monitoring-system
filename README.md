@@ -1,4 +1,4 @@
-# Digital Twin Traffic Management System with Integrated Woman Safety Features
+# Digital Twin Traffic Management System with Integrated Safety Features
 
 ## Basic Details
 ### Team Name: Code Wizards
