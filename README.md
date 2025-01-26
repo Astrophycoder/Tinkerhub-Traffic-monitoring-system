@@ -117,9 +117,9 @@ Smartphones: Used to collect heartbeat data and send it to the app.
 
 ### Project Documentation
 ## Screenshots
-![Screenshot1](Screenshot (1).png)
-![Screenshot2](Screenshot (2).png)
-![Screenshot3](Screenshot (3).png)
+![Screenshot1](Screenshot(1).png)
+![Screenshot2](Screenshot(2).png)
+![Screenshot3](Screenshot(3).png)
 
 ### Diagrams
 ![Analysis Diagram]
