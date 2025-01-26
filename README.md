@@ -122,5 +122,5 @@ Smartphones: Used to collect heartbeat data and send it to the app.
 ![Screenshot3](Screenshot(3).png)
 
 ### Diagrams
-![Analysis Diagram]
+![Analysis Diagram](AnalysisDiagram.png)
 Workflow: High-level system architecture and data flow
