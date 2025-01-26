@@ -32,8 +32,7 @@ o	Develop a multi-tier alert system (Red, Yellow, Blue) to respond to various sa
 o	Facilitate immediate assistance in case of harassment or sudden health issues.
 
 
-### The Solution
-Here's the refined, formal Solution section incorporating your specified requirements:
+
 
 ### The Solution
 
@@ -118,9 +117,9 @@ Smartphones: Used to collect heartbeat data and send it to the app.
 
 ### Project Documentation
 ## Screenshots
-![screenshot1](/path-to-image/screenshot1.png) Screenshot 1: Real-time traffic data visualization
-![screenshot2](/path-to-image/screenshot2.png) Screenshot 2: Heartbeat monitoring dashboard
-![screenshot3](/path-to-image/screenshot3.png) Screenshot 3: Predictive analytics and alert system
+![Screenshot](docs/Screenshot (2).png)
+![Screenshot](docs/Screenshot (2).png) 
+![Screenshot](docs/Screenshot (3).png) 
 
 ### Diagrams
 ![workflow](/path-to-image/workflow_diagram.png) Workflow: High-level system architecture and data flow
